@@ -1,5 +1,3 @@
-# Sophia M. Toliver, CIS 345 10:30 T TH, Project
-
 from PIL import Image
 
 # filename = 'images/question_mark.png'
