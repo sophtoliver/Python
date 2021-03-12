@@ -1,5 +1,3 @@
-# Sophia M. Toliver, CIS 345 T TH 10:30, PE13
-
 class Student:
     """Student class defines common information for all students"""
 
