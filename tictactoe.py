@@ -1,5 +1,3 @@
-# Sophia M. Toliver, CIS 345 TTH 10:30, A7
-
 from tkinter import *
 from tkinter import messagebox
 
