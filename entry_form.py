@@ -1,5 +1,3 @@
-# Sophia M. Toliver, CIS 345 T TH 10:30, PE13
-
 from tkinter import *
 from tkinter import ttk
 from student_classes import Student, GradStudent
