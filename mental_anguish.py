@@ -1,5 +1,3 @@
-# Sophia M. Toliver, CIS 345 10:30 T TH, Project
-
 import csv
 from tkinter import *
 # messageboxes only used for exception handling
